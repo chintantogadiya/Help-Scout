@@ -1,0 +1,192 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-text padding="0" />
+      <mj-section padding="0" />
+      <mj-all font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#F1F3F5"> 
+    <mj-section>  
+      <mj-column>
+        <mj-spacer height="40px"/>
+        <mj-image src="https://email.helpscout.com/hs-fs/hubfs/base/hs-logo-2019-1.png?noresize&width=352&height=70&upscale=true&name=hs-logo-2019-1.png" alt="Help Scout" width="176px" height="31px" />
+        <mj-spacer height="40px"/>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 50px" background-color="white" border-radius="4px">
+        <mj-column >
+            <mj-spacer height="48px"/>
+            <mj-text color="#2a3b47" font-weight="500" font-size="26px" line-height="34px">
+                Happy holidays from Help Scout!
+                <br /><br />
+            </mj-text>
+            <mj-text color="#72808e" font-size="16px" font-weight="400" line-height="41px">
+                As you enjoy some downtime on grandma's couch and search for something fun and interesting to read ... might we suggest some of our greatest hits from 2019?
+
+                Happy New Year, and happy reading! We'll see you in 2020!
+                <br /><br />
+                Happy New Year, and happy reading! We'll see you in 2020!
+            </mj-text>
+            <mj-spacer height="48px"/>
+        </mj-column>
+    </mj-section>
+    <mj-section padding-bottom="20px">
+    </mj-section>
+    <mj-section background-color="white" border-radius="4px" padding="20px 0px">
+        <mj-column>
+            <mj-spacer  height="10px"/>
+            <mj-image src="https://email.helpscout.com/hs-fs/hubfs/sabbatical-from-work.jpg?noresize&width=520&upscale=true&name=sabbatical-from-work.jpg" alt="The Value of Taking a Sabbatical" width="260px" border="0px" border-radius="4px" padding="0px" />
+            <mj-spacer  height="10px"/>
+        </mj-column>
+        <mj-column width="290px" border="0px">
+            <mj-spacer  height="10px"/>
+            <mj-text color="#2a3b47" font-weight="500" font-size="18px" line-height="24px" padding-left="23px" padding-right="23px">
+                The Value of Taking a <br/>Sabbatical
+            </mj-text>
+            <mj-spacer height="10px"/>
+            <mj-text color="#72808e" font-weight="400" font-size="14px" line-height="20px" padding-left="23px" padding-right="26px">
+                A sabbatical isn't just good for the person taking time away from work; it's good for the whole company.
+            </mj-text>
+            <mj-spacer height="12px"/>
+            <mj-text color="#72808e" font-weight="400" font-size="16px" line-height="23px" padding-left="23px">
+                <span style="color: #1292ee; font-weight: 500;">Read More →</span>
+            </mj-text>
+            <mj-spacer  height="10px"/>
+        </mj-column>
+    </mj-section>
+    <mj-section padding-bottom="20px">
+    </mj-section>
+
+    <mj-section background-color="white" border-radius="4px" padding="20px 0px">
+        <mj-column>
+            <mj-spacer  height="10px"/>
+            <mj-image src="https://email.helpscout.com/hs-fs/hubfs/communicate-ideas.jpeg?noresize&width=520&upscale=true&name=communicate-ideas.jpeg" alt="How to Communicate Ideas Effectively" width="260px" border="0px" border-radius="4px" padding="0px" />
+            <mj-spacer  height="10px"/>
+        </mj-column>
+        <mj-column width="290px" border="0px">
+            <mj-spacer  height="10px"/>
+            <mj-text color="#2a3b47" font-weight="500" font-size="18px" line-height="24px" padding-left="23px" padding-right="23px">
+                How to Communicate Ideas Effectively
+            </mj-text>
+            <mj-spacer height="10px"/>
+            <mj-text color="#72808e" font-weight="400" font-size="14px" line-height="20px" padding-left="23px" padding-right="26px">
+                A framework for understanding where others are coming from, and how to make yourself understood.
+            </mj-text>
+            <mj-spacer height="12px"/>
+            <mj-text color="#72808e" font-weight="400" font-size="16px" line-height="23px" padding-left="23px">
+                <span style="color: #1292ee; font-weight: 500;">Read More →</span>
+            </mj-text>
+            <mj-spacer  height="10px"/>
+        </mj-column>
+    </mj-section>
+    
+    <mj-section padding-bottom="20px">
+    </mj-section>
+
+    <mj-section background-color="white" border-radius="4px" padding="20px 0px">
+        <mj-column>
+            <mj-spacer  height="10px"/>
+            <mj-image src="https://email.helpscout.com/hs-fs/hubfs/working-parents.jpg?noresize&width=520&upscale=true&name=working-parents.jpg" alt="How to Support Working Parents" width="260px" border="0px" border-radius="4px" padding="0px" />
+            <mj-spacer  height="10px"/>
+        </mj-column>
+        <mj-column width="290px" border="0px">
+            <mj-spacer  height="10px"/>
+            <mj-text color="#2a3b47" font-weight="500" font-size="18px" line-height="24px" padding-left="23px" padding-right="23px">
+                How to Support Working Parents
+            </mj-text>
+            <mj-spacer height="10px"/>
+            <mj-text color="#72808e" font-weight="400" font-size="14px" line-height="20px" padding-left="23px" padding-right="26px">
+                Work and family can coexist, and it starts with the workplace making a conscious choice to care for parents.
+            </mj-text>
+            <mj-spacer height="12px"/>
+            <mj-text color="#72808e" font-weight="400" font-size="16px" line-height="23px" padding-left="23px">
+                <span style="color: #1292ee; font-weight: 500;">Read More →</span>
+            </mj-text>
+            <mj-spacer  height="10px"/>
+        </mj-column>
+    </mj-section>
+    
+    
+    <mj-section padding-bottom="20px">
+    </mj-section>
+
+    <mj-section background-color="white" border-radius="4px" padding="20px 0px">
+        <mj-column>
+            <mj-spacer  height="10px"/>
+            <mj-image src="https://email.helpscout.com/hs-fs/hubfs/face-time.jpg?noresize&width=520&upscale=true&name=face-time.jpg" alt="The Value of Face Time in a Remote Company" width="260px" border="0px" border-radius="4px" padding="0px" />
+            <mj-spacer  height="10px"/>
+        </mj-column>
+        <mj-column width="290px" border="0px">
+            <mj-spacer  height="10px"/>
+            <mj-text color="#2a3b47" font-weight="500" font-size="18px" line-height="24px" padding-left="23px" padding-right="23px">
+                
+The Value of Face Time in a Remote Company
+            </mj-text>
+            <mj-spacer height="10px"/>
+            <mj-text color="#72808e" font-weight="400" font-size="14px" line-height="20px" padding-left="23px" padding-right="26px">
+                All async, all the time, is bad for business. Here's when it's best to hop on a video call (or an airplane).
+            </mj-text>
+            <mj-spacer height="12px"/>
+            <mj-text color="#72808e" font-weight="400" font-size="16px" line-height="23px" padding-left="23px">
+                <span style="color: #1292ee; font-weight: 500;">Read More →</span>
+            </mj-text>
+            <mj-spacer  height="10px"/>
+        </mj-column>
+    </mj-section>
+    
+    <mj-section padding-bottom="20px">
+    </mj-section>
+
+    <mj-section background-color="white" border-radius="4px" padding="20px 0px">
+        <mj-column>
+            <mj-spacer  height="10px"/>
+            <mj-image src="https://email.helpscout.com/hs-fs/hubfs/productivity-hacks.png?noresize&width=520&upscale=true&name=productivity-hacks.png" alt="13 Productivity Hacks to Maximize Your Time" width="260px" border="0px" border-radius="4px" padding="0px" />
+            <mj-spacer  height="10px"/>
+        </mj-column>
+        <mj-column width="290px" border="0px">
+            <mj-spacer  height="10px"/>
+            <mj-text color="#2a3b47" font-weight="500" font-size="18px" line-height="24px" padding-left="23px" padding-right="23px">
+                
+13 Productivity Hacks to Maximize Your Time
+            </mj-text>
+            <mj-spacer height="10px"/>
+            <mj-text color="#72808e" font-weight="400" font-size="14px" line-height="20px" padding-left="23px" padding-right="26px">
+               The Help Scout team rounded up 13 of our best tips for working efficiently and maximizing our time.
+            </mj-text>
+            <mj-spacer height="12px"/>
+            <mj-text color="#72808e" font-weight="400" font-size="16px" line-height="23px" padding-left="23px">
+                <span style="color: #1292ee; font-weight: 500;">Read More →</span>
+            </mj-text>
+            <mj-spacer  height="10px"/>
+        </mj-column>
+    </mj-section>
+    
+    <mj-section padding-bottom="20px">
+    </mj-section>
+
+    <mj-section>
+        <mj-column>
+            <mj-social font-size="35px" icon-size="35px" color="#3197d1" mode="horizontal">
+          <mj-social-element src="https://email.helpscout.com/hs-fs/hubfs/footer/social-icons/footer_btn_twitter.png?noresize&width=70&height=70&upscale=true&name=footer_btn_twitter.png" href="#">
+          </mj-social-element>
+              <mj-social-element src="https://email.helpscout.com/hs-fs/hubfs/footer/social-icons/footer_btn_facebook.png?noresize&width=70&height=70&upscale=true&name=footer_btn_facebook.png" href="#">
+          </mj-social-element>
+              <mj-social-element src="https://email.helpscout.com/hs-fs/hubfs/footer/social-icons/footer_btn_rss.png?noresize&width=70&height=70&upscale=true&name=footer_btn_rss.png" href="#">
+          </mj-social-element>
+              <mj-social-element icon-size="137px" icon-height="31px" src="https://email.helpscout.com/hs-fs/hubfs/footer/social-icons/footer_btn_email-friend.png?noresize&width=274&height=70&upscale=true&name=footer_btn_email-friend.png"></mj-social-element>
+            </mj-social>
+        </mj-column>
+    </mj-section>
+    <mj-section padding-bottom="10px"></mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text align="center" color="#8c93a0" font-size="12px" line-height="22px">
+          view in your web browser<span style="font-size: 11px;">&nbsp;|&nbsp;</span> unsubscribe
+          <br/><br/>
+          Made by Help Scout&nbsp;&nbsp;•&nbsp;&nbsp;100 City Hall Plaza,&nbsp; 5th Floor&nbsp;&nbsp;•&nbsp;&nbsp;Boston MA&nbsp;&nbsp;•&nbsp;&nbsp;02108
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
